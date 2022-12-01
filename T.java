@@ -1,0 +1,1 @@
+import java.util.*;public class T{public static void main(String[] a){Scanner i=new Scanner(System.in);System.out.println((int)Math.ceil(Math.log(i.nextInt())/Math.log(2))+1);}}

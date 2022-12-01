@@ -1,0 +1,1 @@
+import java.util.Scanner;public class TDPS{public static void main(String[] a){Scanner i = new Scanner(System.in);System.out.println((int)Math.max(1,Math.floor(Math.log(i.nextInt()-1)/Math.log(2))+2));}}
